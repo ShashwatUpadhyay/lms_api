@@ -1,0 +1,1 @@
+web: gunicorn AllSwiftSolutions.wsgi.py --log-file -
