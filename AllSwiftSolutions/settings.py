@@ -103,13 +103,12 @@ DATABASES = {
     },
     # 'default': {
     #     'ENGINE':'django.db.backends.mysql',
-    #     'NAME':'db_allswiftsolutions',
+    #     'NAME':'allswift_lms',
     #     'USER':'root',
     #     'PASSWORD':'',
     #     'HOST':'localhost',
     #     'PORT':'3306',
     # }
-        
 }
 
 
